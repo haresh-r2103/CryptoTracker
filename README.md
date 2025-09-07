@@ -20,12 +20,6 @@ A modern, responsive React application for tracking cryptocurrency investments w
 
 ---
 
-## 🚀 Live Demo  
-
-👉 [**Crypto Portfolio Tracker – Live App**](#) *(deploy your app on Vercel/Netlify and update link)*  
-
----
-
 ## 📦 Installation  
 
 Clone the repository and install dependencies:  
