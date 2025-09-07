@@ -1,5 +1,5 @@
 # 💰 Crypto Portfolio Tracker 📊  
-
+<img width="1912" height="841" alt="image" src="https://github.com/user-attachments/assets/c1a1f463-a50a-4e49-b3e4-1e344a20dec6" />
 A modern, responsive React application for tracking cryptocurrency investments with **real-time price data** and intuitive **portfolio management**.  
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)  
